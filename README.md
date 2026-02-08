@@ -37,7 +37,7 @@ I'm a passionate [Your Role/Title] with a love for [Your Interests]. I enjoy bui
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=jaime32&show_icons=true&theme=radical)
 
 <!-- GitHub Streak Stats -->
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jaime32&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com/?user=jaime32&theme=radical)
 
 <!-- Top Languages -->
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jaime32&layout=compact&theme=radical)
@@ -45,8 +45,9 @@ I'm a passionate [Your Role/Title] with a love for [Your Interests]. I enjoy bui
 ## 🌟 Featured Projects
 
 <!-- Pin your best repositories here -->
+<!-- Replace 'your-repo-name' with actual repository names -->
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jaime32&repo=your-repo-name&theme=radical)](https://github.com/jaime32/your-repo-name)
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jaime32&repo=your-repo-name&theme=radical)](https://github.com/jaime32/your-repo-name) -->
 
 <!-- Add more featured projects as needed -->
 
@@ -87,7 +88,7 @@ I'm a passionate [Your Role/Title] with a love for [Your Interests]. I enjoy bui
 
 ## 📈 Contribution Graph
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jaime32&theme=react-dark)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jaime32&bg_color=1a1b27&color=be90f2&line=638fda&point=35aea1&area=true&hide_border=true)
 
 ## 🏆 GitHub Trophies
 
